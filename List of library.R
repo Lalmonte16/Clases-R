@@ -1,0 +1,5 @@
+# installed.packages() (para ver los paquetes instalados)
+# install.packages("tidyverse") (Instalar un paquete)
+library(tidyverse)
+library(dslabs)
+library(gridExtra)
